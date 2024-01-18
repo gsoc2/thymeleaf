@@ -149,7 +149,7 @@
     <spring-webflow3.version>3.0.0</spring-webflow3.version>
     <jackson.version>2.15.3</jackson.version>
     <reactor.version>2022.0.12</reactor.version>
-    <commons-lang3.version>3.13.0</commons-lang3.version>
+    <commons-lang3.version>3.14.0</commons-lang3.version>
     <commons-io.version>2.13.0</commons-io.version>
     <commons-fileupload.version>1.5</commons-fileupload.version>
     <hibernate-validator-jakarta.version>8.0.1.Final</hibernate-validator-jakarta.version>
